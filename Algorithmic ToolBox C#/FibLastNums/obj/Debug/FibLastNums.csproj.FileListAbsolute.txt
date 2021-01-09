@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\bin\Debug\FibLastNums.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\bin\Debug\FibLastNums.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\bin\Debug\FibLastNums.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\obj\Debug\FibLastNums.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\obj\Debug\FibLastNums.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\FibLastNums\obj\Debug\FibLastNums.pdb

@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\bin\Debug\Coursera.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\bin\Debug\Coursera.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\bin\Debug\Coursera.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\obj\Debug\Coursera.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\obj\Debug\Coursera.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Coursera\obj\Debug\Coursera.pdb

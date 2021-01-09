@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\bin\Debug\Last Digit of the Sum of Fibonacci Numbers.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\bin\Debug\Last Digit of the Sum of Fibonacci Numbers.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\bin\Debug\Last Digit of the Sum of Fibonacci Numbers.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\obj\Debug\Last Digit of the Sum of Fibonacci Numbers.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\obj\Debug\Last Digit of the Sum of Fibonacci Numbers.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Last Digit of the Sum of Fibonacci Numbers\obj\Debug\Last Digit of the Sum of Fibonacci Numbers.pdb

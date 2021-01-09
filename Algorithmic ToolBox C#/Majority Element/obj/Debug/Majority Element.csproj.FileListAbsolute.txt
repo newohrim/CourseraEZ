@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\bin\Debug\Majority Element.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\bin\Debug\Majority Element.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\bin\Debug\Majority Element.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\obj\Debug\Majority Element.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\obj\Debug\Majority Element.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Majority Element\obj\Debug\Majority Element.pdb

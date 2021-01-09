@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.pdb

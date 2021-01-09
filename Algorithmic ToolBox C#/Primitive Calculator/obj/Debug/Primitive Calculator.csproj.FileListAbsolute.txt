@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\bin\Debug\Primitive Calculator.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\bin\Debug\Primitive Calculator.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\bin\Debug\Primitive Calculator.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\obj\Debug\Primitive Calculator.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\obj\Debug\Primitive Calculator.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Primitive Calculator\obj\Debug\Primitive Calculator.csprojAssemblyReference.cache

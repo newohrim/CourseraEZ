@@ -1,0 +1,5 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Collecting Signatures\bin\Debug\Collecting Signatures.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Collecting Signatures\bin\Debug\Collecting Signatures.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Collecting Signatures\bin\Debug\Collecting Signatures.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Collecting Signatures\obj\Debug\Collecting Signatures.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Collecting Signatures\obj\Debug\Collecting Signatures.pdb

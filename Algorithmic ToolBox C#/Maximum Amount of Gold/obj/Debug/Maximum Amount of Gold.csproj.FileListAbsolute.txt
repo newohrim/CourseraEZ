@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\bin\Debug\Maximum Amount of Gold.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\bin\Debug\Maximum Amount of Gold.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\bin\Debug\Maximum Amount of Gold.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\obj\Debug\Maximum Amount of Gold.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\obj\Debug\Maximum Amount of Gold.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Amount of Gold\obj\Debug\Maximum Amount of Gold.pdb

@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\bin\Debug\Partitioning Souvenirs.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\bin\Debug\Partitioning Souvenirs.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\bin\Debug\Partitioning Souvenirs.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\obj\Debug\Partitioning Souvenirs.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\obj\Debug\Partitioning Souvenirs.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Partitioning Souvenirs\obj\Debug\Partitioning Souvenirs.pdb

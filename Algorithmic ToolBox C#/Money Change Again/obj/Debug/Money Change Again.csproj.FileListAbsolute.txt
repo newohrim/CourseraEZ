@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\bin\Debug\Money Change Again.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\bin\Debug\Money Change Again.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\bin\Debug\Money Change Again.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\obj\Debug\Money Change Again.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\obj\Debug\Money Change Again.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Money Change Again\obj\Debug\Money Change Again.pdb

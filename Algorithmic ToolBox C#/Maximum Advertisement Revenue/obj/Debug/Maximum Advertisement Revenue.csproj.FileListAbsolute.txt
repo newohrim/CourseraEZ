@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.pdb

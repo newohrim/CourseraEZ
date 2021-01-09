@@ -1,0 +1,5 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Number of Inversions\bin\Debug\Number of Inversions.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Number of Inversions\bin\Debug\Number of Inversions.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Number of Inversions\bin\Debug\Number of Inversions.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Number of Inversions\obj\Debug\Number of Inversions.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Number of Inversions\obj\Debug\Number of Inversions.pdb

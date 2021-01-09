@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\bin\Debug\MaximumPairwiseProduct.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\bin\Debug\MaximumPairwiseProduct.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\bin\Debug\MaximumPairwiseProduct.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\obj\Debug\MaximumPairwiseProduct.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\obj\Debug\MaximumPairwiseProduct.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\MaximumPairwiseProduct\obj\Debug\MaximumPairwiseProduct.pdb

@@ -1,0 +1,4 @@
+﻿  AverageTemperature.cpp
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\AverageTemperature\AverageTemperature.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\AverageTemperature\AverageTemperature.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  AverageTemperature.vcxproj -> C:\Users\ohrim\Desktop\Proj\CourseraCPP\Debug\AverageTemperature.exe

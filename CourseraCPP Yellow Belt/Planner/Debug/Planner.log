@@ -1,0 +1,6 @@
+﻿  Planner.cpp
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\Planner\Planner.cpp(24,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\Planner\Planner.cpp(26,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\Planner\Planner.cpp(27,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ohrim\Desktop\Proj\CourseraCPP\Planner\Planner.cpp(41,35): warning C4018: <: несоответствие типов со знаком и без знака
+  Planner.vcxproj -> C:\Users\ohrim\Desktop\Proj\CourseraCPP\Debug\Planner.exe

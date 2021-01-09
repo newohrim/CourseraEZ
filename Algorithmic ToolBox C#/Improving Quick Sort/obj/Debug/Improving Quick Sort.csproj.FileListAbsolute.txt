@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\bin\Debug\Improving Quick Sort.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\bin\Debug\Improving Quick Sort.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\bin\Debug\Improving Quick Sort.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\obj\Debug\Improving Quick Sort.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\obj\Debug\Improving Quick Sort.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Improving Quick Sort\obj\Debug\Improving Quick Sort.pdb

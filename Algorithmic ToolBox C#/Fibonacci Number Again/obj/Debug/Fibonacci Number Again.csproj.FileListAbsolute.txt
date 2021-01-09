@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\bin\Debug\Fibonacci Number Again.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\bin\Debug\Fibonacci Number Again.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\bin\Debug\Fibonacci Number Again.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\obj\Debug\Fibonacci Number Again.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\obj\Debug\Fibonacci Number Again.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Fibonacci Number Again\obj\Debug\Fibonacci Number Again.pdb

@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache

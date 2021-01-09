@@ -1,0 +1,6 @@
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\bin\Debug\Edit Distance.exe.config
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\bin\Debug\Edit Distance.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\bin\Debug\Edit Distance.pdb
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\obj\Debug\Edit Distance.csprojAssemblyReference.cache
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\obj\Debug\Edit Distance.exe
+C:\Users\ohrim\Desktop\Proj\Coursera\Edit Distance\obj\Debug\Edit Distance.pdb
